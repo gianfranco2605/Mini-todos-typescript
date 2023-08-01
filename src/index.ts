@@ -69,11 +69,6 @@ form.addEventListener("submit", handleSubmit);
 //     input.value = "";
 // });
 
-
-
-
-
-
 let mystery: unknown = "Hello";
 
 // error mystery = unknown type
